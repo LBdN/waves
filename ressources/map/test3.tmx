@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="20" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" name="PAVE" tilewidth="40" tileheight="40" spacing="40" margin="40">
+  <image source="../img/2D Circle Graphic/PAVE.bmp" width="640" height="480"/>
+ </tileset>
+ <tileset firstgid="49" name="GRS2ROC" tilewidth="40" tileheight="40" margin="40">
+  <image source="../img/2D Circle Graphic/GRS2ROC.bmp" width="640" height="480"/>
+ </tileset>
+ <tileset firstgid="214" name="TABLE1" tilewidth="40" tileheight="40" margin="40">
+  <image source="../img/2D Circle Graphic/TABLE1.GIF" width="640" height="480"/>
+ </tileset>
+ <tileset firstgid="379" name="CLIFVEG2" tilewidth="40" tileheight="40" margin="40">
+  <image source="../img/2D Circle Graphic/CLIFVEG2.bmp" width="640" height="480"/>
+ </tileset>
+ <layer name="first" width="20" height="20" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA3NjYGBwG8HYAYidgNiFSubFAXECFDuhYXLsAJnHCcRcSJgban4SmeYJAjETEDMDMQsQCw9z8ySBWAoJS1NgXg0Q1+HADWSYN4pH8VDGAB58eS9ABgAA
+  </data>
+ </layer>
+ <layer name="Copy of first" width="20" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAXkADcoHkjzkqhsHiGzqOlfWoDB7j5qA2r41w2NHgWjABtww4EBBHZdr0AGAAA=
+  </data>
+ </layer>
+ <layer name="2" width="20" height="20" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAUjEVwD4htAfItK5n0B4m9A/INK5gkxMjCIALEYI5UMHAWjYBRQHQAAsLPPOUAGAAA=
+  </data>
+ </layer>
+</map>
